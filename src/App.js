@@ -1,13 +1,22 @@
+import { useEffect } from 'react';
 import './App.css';
-import { RouterProvider } from "react-router-dom"
-import router from './router';
+import { Outlet } from "react-router-dom"
+import { fetchAllProducts } from './features/products/productsActions';
+import { useDispatch } from 'react-redux';
+import Header from './components/Header';
 
 
 function App() {
 
+   
+
   return (
     <div className="App">
-      <RouterProvider router={router} />
+      <Header/>
+      <main>
+          <Outlet/>
+      </main>
+      
     </div>
   );
 }

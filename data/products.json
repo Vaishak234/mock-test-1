@@ -1,0 +1,70 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Grocery",
+      "image": "https://rukminim2.flixcart.com/flap/80/80/image/29327f40e9c4d26b.png?q=100",
+      "price": 1000
+    },
+    {
+      "id": "2",
+      "title": "Mobiles",
+      "image": "https://rukminim2.flixcart.com/flap/80/80/image/22fddf3c7da4c4f4.png?q=100",
+      "price": 1000
+    },
+    {
+      "id": "3",
+      "title": "Fashion",
+      "image": "https://rukminim2.flixcart.com/flap/80/80/image/29327f40e9c4d26b.png?q=100",
+      "price": 1000
+    },
+    {
+      "id": "4",
+      "title": "Electronics",
+      "image": "https://rukminim2.flixcart.com/flap/80/80/image/29327f40e9c4d26b.png?q=100",
+      "price": 1000
+    },
+    {
+      "id": "5",
+      "title": "Furniture",
+      "image": "https://rukminim2.flixcart.com/flap/80/80/image/29327f40e9c4d26b.png?q=100",
+      "price": 1000
+    },
+    {
+      "id": "6",
+      "title": "Appliances",
+      "image": "https://rukminim2.flixcart.com/fk-p-flap/80/80/image/0139228b2f7eb413.jpg?q=100",
+      "price": 1000
+    },
+    {
+      "id": "7",
+      "title": "Toys",
+      "image": "https://rukminim2.flixcart.com/flap/80/80/image/29327f40e9c4d26b.png?q=100",
+      "price": 1000
+    },
+    {
+      "id": "9a0b"
+    },
+    {
+      "id": "da8a"
+    },
+    {
+      "id": "21e9"
+    },
+    {
+      "id": "509d"
+    },
+    {
+      "id": "3a91"
+    },
+    {
+      "id": "84ec"
+    },
+    {
+      "id": "058e"
+    },
+    {
+      "id": "7e9b"
+    }
+  ]
+}
